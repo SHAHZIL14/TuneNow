@@ -1429,7 +1429,10 @@
     }
 
     .album-art {
-        width: 60%;
+        width: 90%;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
     }
 
     .controllerSong-details {
